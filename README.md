@@ -3,7 +3,7 @@
 This project aim to become an important tool for the everyday activities of  a soccer club.
 ![](static/img/Immagine.png)
 
-### Part:
+### Parts:
 * le categorie
 * gli allenamenti
 * le partite
