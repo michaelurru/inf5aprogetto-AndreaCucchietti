@@ -1,9 +1,10 @@
-# Project of Cucchietti Andrea and Michael Urru
+# Progetto di Cucchietti Andrea e Michael Urru
 
-This project aim to become an important tool for the everyday activities of  a soccer club.
+Lo scopo del progetto è di creare un software in grado di gestire le attività di tutti i giorni
+di una società calcistica.
 ![](static/img/Immagine.png)
 
-### Parts:
+### Parti:
 * le categorie
 * gli allenamenti
 * le partite
