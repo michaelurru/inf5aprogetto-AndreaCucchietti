@@ -1,7 +1,7 @@
 # Project
 
 This project aim to become an important tool for the everyday activities of  a soccer club.
-![](/img/Immagine.png)
+![](static/img/Immagine.png)
 
 ### Part:
 * le categorie
