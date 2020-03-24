@@ -1,4 +1,4 @@
-# Project
+# Project of Cucchietti Andrea and Michael Urru
 
 This project aim to become an important tool for the everyday activities of  a soccer club.
 ![](static/img/Immagine.png)
